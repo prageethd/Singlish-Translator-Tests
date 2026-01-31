@@ -230,7 +230,7 @@ This is a test suite project. If you need to add new test cases or modify existi
 3. Run tests to ensure they pass: `npx playwright test`
 4. Commit your changes with clear commit messages
 
-## 👤 Author
+## Author
 
 Prageeth Dilruwan
 
