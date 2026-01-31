@@ -1,6 +1,6 @@
 # Singlish to Sinhala Translator – Playwright Test Suite
 
-## 📋 Overview
+##  Overview
 
 This repository contains a comprehensive automated test suite for a Singlish to Sinhala translation system. The test suite is built using Playwright, a modern end-to-end testing framework, and validates both functional translation capabilities and user interface behavior across multiple browsers.
 
@@ -43,7 +43,7 @@ npm --version
 git --version
 ```
 
-## 📦 Installation
+##  Installation
 
 ### Step 1: Clone the Repository
 
@@ -78,7 +78,7 @@ This will download the necessary browser binaries (Chromium, Firefox, and WebKit
 
 **Note**: The browser installation may take a few minutes depending on your internet connection.
 
-## ⚙️ Configuration
+##  Configuration
 
 The test configuration is defined in `playwright.config.js`. Key configuration settings include:
 
